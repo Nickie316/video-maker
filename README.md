@@ -1,2 +1,2 @@
 # Video-Maker
-Projeto open source para videos automatizados(Felipe Deschamps)
+Projeto open source para videos automatizados (by:Felipe Deschamps)
