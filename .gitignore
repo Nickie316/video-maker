@@ -62,3 +62,8 @@ typings/
 
 #credentials
 credentials/*.json
+
+content.json
+
+content.*npg
+.DS_Store
