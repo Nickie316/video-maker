@@ -63,6 +63,14 @@ typings/
 #credentials
 credentials/*.json
 
+ convert-images
 content/*.png
 content/*.jpg
 .DS_Store
+
+content.json
+download-images
+
+content.*npg
+.DS_Store
+ master
