@@ -18,6 +18,7 @@
   "homepage": "https://github.com/Nickie666/video-maker#readme",
   "dependencies": {
     "algorithmia": "^0.3.10",
+    "gm": "^1.23.1",
     "googleapis": "^39.1.0",
     "i": "^0.3.6",
     "readline-sync": "^1.4.9",
