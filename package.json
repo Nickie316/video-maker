@@ -18,9 +18,14 @@
   "homepage": "https://github.com/Nickie666/video-maker#readme",
   "dependencies": {
     "algorithmia": "^0.3.10",
+ youtube
     "express": "^4.16.4",
+=======
+    "gm": "^1.23.1",
+
     "googleapis": "^39.1.0",
     "i": "^0.3.6",
+    "image-downloader": "^3.4.2",
     "readline-sync": "^1.4.9",
     "sbd": "^1.0.14",
     "watson-developer-cloud": "^3.18.3"
