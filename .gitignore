@@ -63,6 +63,16 @@ typings/
 #credentials
 credentials/*.json
 
+ youtube
+content.json
+
+content/*.png
+content/-.jpg
+content/*.mov
+Adobe After Effects Auto-Save
+template.aep Logs
+.DS_Store
+
  convert-images
 content/*.png
 content/*.jpg
@@ -73,4 +83,3 @@ download-images
 
 content.*npg
 .DS_Store
- master
